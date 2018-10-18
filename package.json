@@ -1,0 +1,8 @@
+{
+  "name": "js-rest-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/haavarol/js-rest-api.git",
+  "author": "Håvard Olsen <haavard.b.olsen@gmail.com>",
+  "license": "MIT"
+}
