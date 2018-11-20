@@ -4,8 +4,7 @@ const port = 3000;
 
 const server = http.createServer(app);
 
-console.log("Starting server");
-
+console.log("Starting serve");
 
 server.listen(port)
 
